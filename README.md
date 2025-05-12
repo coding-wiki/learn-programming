@@ -33,6 +33,10 @@ Start with practical CRUD app development while looping back to computer science
 
 What is the destination, and what is the journey? From what are we starting with?
 
+Start with writing a Next.js app on day 1, while understanding the fundamental concepts of how a computer works. How computers communicate with each other over a network. What is happening behind the scenes?
+
+Distill primitives and core concepts from everything. Design can be described in the core primitives of `Text`, `View`, `Image`. Design programs use the primitives of `Rectangle`/`Frame`, `Text`, `Image`. Code uses the primitives of `string`, `number`, etc. How can we apply common thinking to optimitally learn every concept and perform tasks with the minimal amount of work and learning? While having a deep understanding of the entire stack.
+
 ## Code Examples
 
 **`main.c`**
