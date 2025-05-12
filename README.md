@@ -24,7 +24,16 @@ Assembler vs compiler
   - What is UDP? 
   - Writing a TCP server in C
   - Protocol design
-  - https://web.mit.edu/2.993/www/lectures/lecture5.html 
+  - https://web.mit.edu/2.993/www/lectures/lecture5.html
+- React.js
+- Next.js App Development (client & server)
+- Node.js (scripting and server)
+- TypeScript
+- Vanilla HTML/CSS – and abstractions.
+  - Serve HTML with a C server.
+  - CSS and Figma/Penpot
+  - Design Tokens
+  - Design Primitives (Component-Driven Development)
 - Hardware Design
 
 ## Vertical Stack Learning
