@@ -78,6 +78,11 @@ gcc hello.c -o hello -Wall
 
 (borrow concepts from the product design world)
 
+## Game Development (Practical Programming Experience)
+
+- https://www.youtube.com/watch?v=uh8XaC0Y5MA – Connecting Unity Clients to a Dedicated Server | C# Networking Tutorial - Part 1
+  - Covers designing a communication protocol with UDP/TCP with a C# client and dedicated server in the context of game development.
+
 
 ## Resources
 
